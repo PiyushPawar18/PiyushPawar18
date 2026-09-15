@@ -20,7 +20,7 @@ const developer = {
   name     : "Piyush Pawar",
   location : "India 🇮🇳",
   role     : "Full Stack Developer",
-  skill : ["React.js", "Next.js" , "Tailwind CSS", "Redux"] 
+  skill : ["React.js", "Next.js" , "Tailwind CSS", "Redux"],
   learning : ["Java", "Advanced System Design"],
   passion  : "Building web experiences that bring real value",
   contact  : "piyushmpawar2004@gmail.com",
